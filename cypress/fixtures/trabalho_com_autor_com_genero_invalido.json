@@ -1,0 +1,22 @@
+{
+  "titulo": "Desenvolvimento das asas da borboleta",
+  "area": "CBS",
+  "codigo": "CBS01",
+  "autores": [
+    {
+      "nome": "Fulano de Tal",
+      "genero": "X",
+      "cpf": "99999999999"
+    },
+    {
+      "nome": "João Sousa",
+      "genero": "M",
+      "cpf": "88899999999"
+    },
+    {
+      "nome": "Cicrana da Silva",
+      "genero": "F",
+      "cpf": "77799999999"
+    }
+  ]
+}
