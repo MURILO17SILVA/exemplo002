@@ -25,7 +25,7 @@
     "@types/node": "^16.11.10",
     "@typescript-eslint/eslint-plugin": "^8.2.0",
     "@typescript-eslint/parser": "^8.2.0",
-    "cypress": "^13.13.3",
+    "cypress": "^13.14.2",
     "eslint": "^8.2.0",
     "eslint-config-airbnb-base": "15.0.0",
     "eslint-config-node": "^4.1.0",
